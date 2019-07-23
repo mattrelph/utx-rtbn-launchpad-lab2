@@ -7,3 +7,5 @@ Objectives
 * Appreciate the distinction between real-time and non-real time tasks
 * Develop a scheduler that runs two periodic event threads and four main threads
 * Implement spin-lock semaphores and a mailbox
+
+https://youtu.be/qKLcdf3tcDQ
